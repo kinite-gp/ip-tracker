@@ -62,3 +62,9 @@
     "datetime" : "232323232323"
 }
 ```
+
+## Note!!!!!!!!!!
+The target program can send information to the server every time it is executed
+And the hacker program can always have the last online time, the last ip, port, and username, and always access the target system with bind shell.
+
+Through that server and third-party programs, you can always access the target without the need for a fixed IP and the problems of disconnection due to changing the IP.
