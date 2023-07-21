@@ -1,9 +1,9 @@
 # router
  IP switcher for bindshell or revarseshell
-<hr>
+
 
 [![PHP 8.2](https://img.shields.io/badge/PHP-8.2-yellow.svg)](https://www.php.net/downloads.php)
-<hr>
+
 
 ## Setting up:
 1 - This is a php program, so it is placed on the server<br>
